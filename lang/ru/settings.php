@@ -4,7 +4,7 @@
  *
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
  * @author Anna Martynova <perpetratrice@gmail.com>
- * @author Aleksandr Selivanov <alexgearbox@gmail.com>
+ * @author Aleksandr Selivanov <alexgearbox@yandex.ru>
  */
 
 $lang['authSlots']           = 'Для обеспечения удалённой аутентификации определите по одному слоту аутентификации для каждой строки. Синтаксис: <br /><code>&lt;slotname&gt;=&lt;username&gt;:&lt;password&gt;</code>';
