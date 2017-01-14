@@ -4,7 +4,7 @@
  *
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
  * @author Anna Martynova <perpetratrice@gmail.com>
- * @author Aleksandr Selivanov <alexgearbox@gmail.com>
+ * @author Aleksandr Selivanov <alexgearbox@yandex.ru>
  */
 
 $lang['menu']                    = 'Локальная консоль базы данных «database2»';
